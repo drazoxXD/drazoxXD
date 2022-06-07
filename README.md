@@ -2,8 +2,8 @@
 
 ##
 
-- 😅 I'm a wannabe dev that is too lazy and is still learning the basic
-- ❤️ I love to help people with some Fivem Development basic issues and do some simple scripts
+- 😅 I'm a wannabe dev but i am lazy
+- ❤️ If you want i can help with ESX and QBCore scripts too
 - 🧡 In love with QBCore <3
 - 🤏 16 Years old 
 
