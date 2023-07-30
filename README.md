@@ -5,7 +5,7 @@
 - 😅 I'm a wannabe dev but i am lazy
 - ❤️ If you want i can help with ESX and QBCore scripts too
 - 🧡 In love with QBCore <3
-- 🤏 16 Years old 
+- 🤏 17 Years old 
 
 ##
 
