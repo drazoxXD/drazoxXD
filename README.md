@@ -7,7 +7,7 @@
 - 🤏 17 Years old 
 
 ##
-[![Discord Presence](https://lanyard.cnrad.dev/api/556049733332893707)](https://discord.com/users/556049733332893707)
+![](https://dcbadge.vercel.app/api/shield/556049733332893707)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drazoxXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
