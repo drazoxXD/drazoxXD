@@ -4,10 +4,12 @@
 
 - 😅 I'm a wannabe dev but i am lazy
 - ❤️ If you want i can help with ESX and QBCore scripts too
-- 🧡 In love with QBCore <3
 - 🤏 17 Years old 
 
 ##
+<a href="https://discord.com/users/556049733332893707">
+<img height="100px" src="https://discord.c99.nl/widget/theme-4/494351466614489108.png" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drazoxXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
