@@ -7,9 +7,7 @@
 - 🤏 17 Years old 
 
 ##
-<a href="https://discord.com/users/556049733332893707">
-<img height="100px" src="https://discord.c99.nl/widget/theme-4/494351466614489108.png" />
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:556049733332893707)](https://discord.com/users/:556049733332893707)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drazoxXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
