@@ -7,7 +7,7 @@
 - 🤏 17 Years old 
 
 ##
-![](https://dcbadge.vercel.app/api/shield/556049733332893707)
+![](https://dcbadge.vercel.app/api/shield/556049733332893707?style=flat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drazoxXD&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
