@@ -4,7 +4,7 @@
 
 - 😅 I'm a wannabe dev but i am lazy
 - ❤️ If you want i can help with ESX and QBCore scripts too
-- 🤏 17 Years old 
+- 🤏 18 Years old 
 
 ##
 ![](https://dcbadge.vercel.app/api/shield/556049733332893707?style=flat?compact=true)
