@@ -2,9 +2,8 @@
 
 ##
 
-- 😅 I'm a wannabe dev but i am lazy
-- ❤️ If you want i can help with ESX and QBCore scripts too
-- 🤏 18 Years old 
+-  I develop FiveM scripts and some UI's
+-  19 Years old 
 
 ##
 ![](https://dcbadge.vercel.app/api/shield/556049733332893707?style=flat?compact=true)
