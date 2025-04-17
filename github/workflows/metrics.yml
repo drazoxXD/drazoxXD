@@ -2,9 +2,12 @@ name: Metrics
 on:
   # Schedule updates
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Run on any push event from any branch
+  push:
+  # Run on pull requests
+  pull_request:
+  # Manual trigger
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
 
 jobs:
   github-metrics:
