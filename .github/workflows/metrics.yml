@@ -23,7 +23,7 @@ jobs:
           
           # Options
           user: drazoxXD
-          template: repository
+          template: classic
           base: header, activity, repositories, metadata
           config_timezone: Europe/Zagreb
           plugin_isocalendar: yes
