@@ -15,9 +15,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          debug: yes  # Enable debug logging
           
           # Options
           user: drazoxXD
