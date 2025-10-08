@@ -1,13 +1,18 @@
 name: Metrics
 on:
-  # Schedule updates
-  schedule: [{cron: "0 0 * * *"}]
-  # Run on any push event from any branch
   push:
-  # Run on pull requests
   pull_request:
-  # Manual trigger
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  issues:
+  issue_comment:
+  fork:
+  create:
+  delete:
+  release:
+  watch:
+  repository_dispatch:
 
 jobs:
   github-metrics:
