@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -173,7 +173,7 @@ It's a FiveM RolePlay server!</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    19 Releases
+                                    20 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ It's a FiveM RolePlay server!</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.2m added, 9m removed
+                                    59.9k added, 19.5k removed
                                 </div>
                             </section>
                             <section>
@@ -239,14 +239,14 @@ It's a FiveM RolePlay server!</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.22001994586216" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="231.22001994586216" y="0" width="123.52334743395912" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="354.74336737982134" y="0" width="50.289126047644494" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="405.0324934274658" y="0" width="22.329015086617808" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="427.3615085140836" y="0" width="17.420774612428602" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="444.7822831265122" y="0" width="7.084527220630373" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="451.8668103471426" y="0" width="6.3966072900750035" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.26341763721763" y="0" width="1.7365823627824042" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.22005875336325" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="231.22005875336325" y="0" width="123.52336816586825" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="354.74342691923147" y="0" width="50.28913448806983" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="405.03256140730133" y="0" width="22.32894162880382" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="427.36150303610515" y="0" width="17.42077753629622" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="444.78228057240136" y="0" width="7.084528409683109" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.8668089820845" y="0" width="6.3966083636686495" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.2634173457531" y="0" width="1.7365826542468799" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2365,14 +2365,14 @@ It's a FiveM RolePlay server!</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2025, 01:38:42 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2025, 02:38:48 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
