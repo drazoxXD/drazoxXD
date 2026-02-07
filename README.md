@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/drazoxXD/drazoxXD/refs/heads/main/github-metrics.svg" >
+<img src="https://raw.githubusercontent.com/drazoxXD/drazoxXD/main/github-metrics.svg" >
