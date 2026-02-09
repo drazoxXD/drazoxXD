@@ -17,6 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          output: github-metrics.svg
 
           user: DrazoxXD
           template: classic
@@ -63,3 +64,24 @@ jobs:
 
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+
+  metrics-last-run:
+    needs: github-metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update last run timestamp
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+          sed -i "s|<span id=\"metrics-last-run\">.*</span>|<span id=\"metrics-last-run\">$DATE</span>|" README.md
+
+      - name: Commit update
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update metrics last run time" || exit 0
+          git push
