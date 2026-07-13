@@ -239,14 +239,14 @@ It's a FiveM RolePlay server!</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.06140748020286" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="171.06140748020286" y="0" width="99.40831343393788" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="270.46972091414074" y="0" width="92.4983664219851" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="362.96808733612585" y="0" width="40.68524271882628" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="403.6533300549521" y="0" width="36.46890779531045" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="440.1222378502626" y="0" width="12.88614942795051" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="453.0083872782131" y="0" width="4.731571311014911" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.739958589228" y="0" width="2.260041410772034" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.7727610647597" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="170.7727610647597" y="0" width="99.24057335883487" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="270.01333442359453" y="0" width="92.34228608630129" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="362.3556205098958" y="0" width="41.39278805833038" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.7484085682262" y="0" width="36.407370715350076" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="440.15577928357624" y="0" width="12.8644055355318" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="453.02018481910807" y="0" width="4.723587329598786" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.74377214870685" y="0" width="2.25622785129312" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2361,14 +2361,14 @@ It's a FiveM RolePlay server!</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jul 2026, 22:53:18 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Jul 2026, 00:51:52 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
