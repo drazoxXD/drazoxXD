@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -239,14 +239,14 @@ It's a FiveM RolePlay server!</div>
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.39019036295758" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="170.39019036295758" y="0" width="99.01751587522462" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="269.4077062381822" y="0" width="92.13473349699134" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="361.54243973517356" y="0" width="42.33240238748687" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="403.8748421226604" y="0" width="36.325539905412406" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="440.20038202807285" y="0" width="12.835490931053226" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="453.03587295912604" y="0" width="4.712970386672188" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="457.74884334579826" y="0" width="2.251156654201774" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.1178708265329" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="170.1178708265329" y="0" width="98.85926495735413" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="268.97713578388704" y="0" width="91.99449671312445" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="360.97163249701146" y="0" width="42.992909490074" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="403.9645419870854" y="0" width="36.26748401518571" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="440.23202600227114" y="0" width="12.814977103744964" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="453.0470031060161" y="0" width="4.705438063900861" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="457.752441169917" y="0" width="2.2475588300829927" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2391,14 +2391,14 @@ It's a FiveM RolePlay server!</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2026, 22:40:34 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2026, 00:45:11 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
